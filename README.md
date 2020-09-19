@@ -45,12 +45,14 @@ Technologies used (python libraries used):
 
 <li>The trained CNN model is stored in the digit_classifier.h5 file.</li></ol></p>
 
-On running the launchapp.py file we get this initial pygame window:
+On running the launchapp.py file we get this initial pygame window:<br><br>
+<img src="initial.png" alt="initial window" width=75%/>
  
 
-As we draw/write our numbers on the left side of the window, we get the predicted label of the number in the right side:
- 
+As we draw/write our numbers on the left side of the window, we get the predicted label of the number in the right side:<br><br>
+<img src="digit.png" alt="one digit window" witdh=75%/>
 
 
-The app can also detect multiple numbers in the canvas:
+The app can also detect multiple numbers in the canvas:<br><br>
+<img src="multidigit.png" alt="multi digit window" width=75%/>
  
