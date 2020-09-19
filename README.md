@@ -50,7 +50,7 @@ On running the launchapp.py file we get this initial pygame window:<br><br>
  
 
 As we draw/write our numbers on the left side of the window, we get the predicted label of the number in the right side:<br><br>
-<img src="digit.png" alt="one digit window" witdh=75%/>
+<img src="digit.png" alt="one digit window" width=75%/>
 
 
 The app can also detect multiple numbers in the canvas:<br><br>
